@@ -1,0 +1,10 @@
+^C:\USERS\P.ANVESH\DESKTOP\FROM GIT\OPENGL_JAMIEKING\GRAPHICSPAD_VSCODE\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/p.anvesh/Desktop/from Git/OpenGL_JamieKing/GraphicsPad_VSCode" "-BC:/Users/p.anvesh/Desktop/from Git/OpenGL_JamieKing/GraphicsPad_VSCode/build" --check-stamp-file "C:/Users/p.anvesh/Desktop/from Git/OpenGL_JamieKing/GraphicsPad_VSCode/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
