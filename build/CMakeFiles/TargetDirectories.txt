@@ -1,0 +1,3 @@
+C:/Users/p.anvesh/Desktop/from Git/OpenGL_JamieKing/GraphicsPad_VSCode/build/CMakeFiles/Gmake_Game.dir
+C:/Users/p.anvesh/Desktop/from Git/OpenGL_JamieKing/GraphicsPad_VSCode/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/p.anvesh/Desktop/from Git/OpenGL_JamieKing/GraphicsPad_VSCode/build/CMakeFiles/ZERO_CHECK.dir

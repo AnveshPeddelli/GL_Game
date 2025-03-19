@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\p.anvesh\Desktop\from Git\OpenGL_JamieKing\GraphicsPad_VSCode\MainLoop\main_game.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\p.anvesh\Desktop\from Git\OpenGL_JamieKing\GraphicsPad_VSCode\Player\player.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\p.anvesh\Desktop\from Git\OpenGL_JamieKing\GraphicsPad_VSCode\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{DFF88A9A-1608-319B-B67C-6E567AD93E96}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
